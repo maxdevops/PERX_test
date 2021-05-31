@@ -1,4 +1,4 @@
-git pull https://github.com/maxdevops/PERX_test  
+git clone https://github.com/maxdevops/PERX_test  
 cd PERX_test  
 docker-compose build  
 docker-compose up  
